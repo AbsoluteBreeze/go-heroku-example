@@ -16,5 +16,5 @@ func main() {
 }
 
 func hello(res http.ResponseWriter, req *http.Request) {
-	fmt.Fprintln(res, "hello, This has been reported under responsive disclosure")
+	fmt.Fprintln(res, "hello, This has been reported under responsible disclosure")
 }
